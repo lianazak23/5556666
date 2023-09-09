@@ -1,0 +1,16 @@
+C:\Users\liana\OneDrive\Рабочий стол\рррр\task43\bin\Debug\net6.0\task43.exe
+C:\Users\liana\OneDrive\Рабочий стол\рррр\task43\bin\Debug\net6.0\task43.deps.json
+C:\Users\liana\OneDrive\Рабочий стол\рррр\task43\bin\Debug\net6.0\task43.runtimeconfig.json
+C:\Users\liana\OneDrive\Рабочий стол\рррр\task43\bin\Debug\net6.0\task43.dll
+C:\Users\liana\OneDrive\Рабочий стол\рррр\task43\bin\Debug\net6.0\ref\task43.dll
+C:\Users\liana\OneDrive\Рабочий стол\рррр\task43\bin\Debug\net6.0\task43.pdb
+C:\Users\liana\OneDrive\Рабочий стол\рррр\task43\obj\Debug\net6.0\task43.GlobalUsings.g.cs
+C:\Users\liana\OneDrive\Рабочий стол\рррр\task43\obj\Debug\net6.0\task43.csproj.AssemblyReference.cache
+C:\Users\liana\OneDrive\Рабочий стол\рррр\task43\obj\Debug\net6.0\task43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liana\OneDrive\Рабочий стол\рррр\task43\obj\Debug\net6.0\task43.AssemblyInfoInputs.cache
+C:\Users\liana\OneDrive\Рабочий стол\рррр\task43\obj\Debug\net6.0\task43.AssemblyInfo.cs
+C:\Users\liana\OneDrive\Рабочий стол\рррр\task43\obj\Debug\net6.0\task43.csproj.CoreCompileInputs.cache
+C:\Users\liana\OneDrive\Рабочий стол\рррр\task43\obj\Debug\net6.0\task43.dll
+C:\Users\liana\OneDrive\Рабочий стол\рррр\task43\obj\Debug\net6.0\ref\task43.dll
+C:\Users\liana\OneDrive\Рабочий стол\рррр\task43\obj\Debug\net6.0\task43.pdb
+C:\Users\liana\OneDrive\Рабочий стол\рррр\task43\obj\Debug\net6.0\task43.genruntimeconfig.cache
